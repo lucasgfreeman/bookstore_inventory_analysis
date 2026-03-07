@@ -13,7 +13,7 @@ This project analyzes my early bookstore inventory of 523 books to explore:
 - `data/Bookstore_Inventory.csv` – the dataset
 - `notebooks/library_analysis.ipynb` – Python notebook with all analysis
 - `visuals/` – saved charts from the analysis
-- `presentations/Bookstore_Inventory_Analysis_Presentation.pdf` - Visual presentation with ananlysis and findings.
+- `presentations/Bookstore_Inventory_Analysis_Presentation.pdf` - Visual presentation with ananlysis and findings
 
 ## Context & Caveats
 
@@ -31,7 +31,8 @@ This project analyzes my early bookstore inventory of 523 books to explore:
 - Mystery, romance, and literary fiction have been heavily sourced through thrifting, though these genres can also be obtained through library sales or donations, offering multiple sourcing options.
 - Thrifting far exceeded the $0.50 per book acquisition goal, while library sales were roughly on track.
 
-Key Takeaways:
+## Key Takeaways
+
 - Thrifting may fill gaps in underrepresented genres or high-margin titles, but should not be the primary sourcing method for used books.
 - Continue leveraging donations and library sales, which provide cost-efficient acquisitions.
 - Explore additional sourcing options, such as  yard sales, estate sales, online purchases, or direct from individuals.
@@ -56,7 +57,7 @@ Before analysis, the dataset was cleaned as follows:
 
 ## Optional
 
-- Tableau visuals: (https://public.tableau.com/app/profile/lucas.freeman6945/viz/Bookstore_Inventory_Project/Sheet1)
+- Tableau Viz: (https://public.tableau.com/app/profile/lucas.freeman6945/viz/Bookstore_Inventory_Project/Sheet1)
 
 
 
