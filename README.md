@@ -2,7 +2,7 @@ README
 
 # Bookstore Inventory Analysis
 
-This project analyzes my early bookstore inventory of 523 books to explore:
+This project analyzes my early bookstore inventory of 522 books to explore:
 
 - Distribution of books by genre
 - Average cost per book by genre
