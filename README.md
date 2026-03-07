@@ -13,7 +13,7 @@ This project analyzes my early bookstore inventory of 523 books to explore:
 - `data/Bookstore_Inventory.csv` – the dataset
 - `notebooks/library_analysis.ipynb` – Python notebook with all analysis
 - `visuals/` – saved charts from the analysis
-- `Bookstore_Inventory_Analysis_Presentation.pdf` - Visual presentation with ananlysis and findings.
+- `presentations/Bookstore_Inventory_Analysis_Presentation.pdf` - Visual presentation with ananlysis and findings.
 
 ## Context & Caveats
 
